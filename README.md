@@ -5,7 +5,7 @@ This is a responsive, one-page portfolio website built with plain HTML, CSS, and
 ## Open it in VS Code
 
 1. Open the `professional-portfolio` folder in VS Code.
-2. Edit `index.html` to replace **Alex Morgan**, the project names, roles, social links, and email address with your own.
+2. Edit `index.html` to replace **Eugene Mwenda**, the project names, roles, social links, and email address with your own.
 3. Open `index.html` in a browser to preview it. If you use the VS Code **Live Server** extension, right-click `index.html` and choose **Open with Live Server** for automatic browser refreshes.
 
 ## Main files
